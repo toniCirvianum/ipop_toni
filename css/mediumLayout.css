@@ -1,0 +1,31 @@
+body {
+  background-color: purple;
+  font-size: 14px;
+}
+.header img {
+  content: url(../imatges/logodaw_small.jpg);
+  margin-left: 15px;
+}
+.slider {
+  content: url(../imatges/slider_medium.png);
+}
+.container {
+  background-color: white;
+  width: 600px;
+  border-radius: 15px;
+}
+
+.menu a {
+  padding: 15px;
+}
+.top {
+  margin: 15px;
+}
+
+.col {
+  width: 145px;
+}
+
+.col img {
+  content: url(../imatges/col_img_small.jpg);
+}
